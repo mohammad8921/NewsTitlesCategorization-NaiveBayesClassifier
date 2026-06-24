@@ -10,5 +10,8 @@
   * Social media
   * Web browsing
   * Video & audio
+ 
+<img width="839" height="801" alt="PLOT" src="https://github.com/user-attachments/assets/5087eee7-bcf6-45b8-8897-1634589e2118" />
+
 * All characters except `آ-ی` and `\s` have been removed; Numbers have been replaced by `N`. Zeros have been handled by Laplacian smoothing.
 * The `DataPreprocessor` and `NaiveBayesClassifier` classes have been designed for preprocessing the samples and training/evaluating a Naive Bayes classifier respectively.  
